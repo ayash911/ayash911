@@ -1,4 +1,4 @@
-# ayush911
+# Yash Agrawal
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-agrawal-282961270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iit2023232@iiita.ac.in) 
